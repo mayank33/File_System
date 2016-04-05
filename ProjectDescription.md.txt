@@ -1,0 +1,14 @@
+******Project Description*********
+
+
+MemoryFS is a volatile Filesystem which will stay as long as your computer stays awake. 
+	* We had to create mount point for a directory.
+	* Next task is to allow a consistent way to operate on the Files with basic operations.
+	* Some of the supported operations are :
+		-New File
+		-New Directory
+		-Edit/Delete Files
+		-Rename Files/Directories
+		-Delete Directories
+		-Standard File System Related Shell Command like ls,mkdir,touch,cat,copy,truncate,statfs,etc
+		-Create Links(Shortcuts)
